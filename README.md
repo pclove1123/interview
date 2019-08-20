@@ -13,20 +13,6 @@
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](http://makeapullrequest.com)
 
 
-
-### 内容说明：
-本仓库存放的是公众号【狸猫技术窝】和**中华石杉**老师合作的课程《**互联网Java进阶面试训练营**》的笔记，版权归狸猫技术窝所有，侵权将追究法律责任
-
-训练营详细信息请关注公众号【狸猫技术窝】了解
-### 公众号:狸猫技术窝
-
-更多技术干货，请扫描下方二维码，关注公众号狸猫技术窝
-
-![我的公众号](/images/limaojishuwo.jpeg)
-
-
-
-
 ## 目录
 
 - [互联网Java面试指南](#面试指南)
@@ -235,22 +221,6 @@
 - [59、淘宝和京东的库存是怎么实现的？能不能不用分布式锁实现高并发库存更新？](/docs/distributed-system/distributed-lock-taobao-and-jingdong.md)
 - [60、作业：自己系统的分布式锁在高并发场景下应该如何优化？](/docs/distributed-system/highly-concurrent-majorization-distributed-lock.md)
 - [61、互联网Java工程师面试突击前两季总结以及下一季的规划展望](/docs/distributed-system/java-internet-interview-outlook.md)
-
-
-
-### 第二季-高并发
-### 第三季-微服务
-### 第四季-海量数据
-### 第五季-高性能
-### 第六季-高可用
-
-
-
-
-
-
-
-
 
 
 
